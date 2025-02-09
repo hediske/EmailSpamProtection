@@ -41,7 +41,9 @@ git clone https://github.com/your-repo/spam-detection.git
 cd spam-detection
 ```
 2. Install the required packages:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### Running the Web Application
 To test the web application for spam detection:
